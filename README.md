@@ -73,8 +73,8 @@
 ### 1. Клонирование и установка
 
 ```bash
-git clone https://github.com/partikond212/ShopMarket.git
-cd ShopMarket
+git clone https://github.com/partikond212/e-commerce-store.git
+cd e-commerce-store
 npm install
 ```
 
