@@ -105,7 +105,7 @@ npm run deploy
 ```
 
 После этого сайт будет доступен по адресу:  
-👉 **[https://partikond212.github.io/ShopMarket/](https://partikond212.github.io/ShopMarket/)**
+👉 **[https://partikond212.github.io/ShopMarket/](https://partikond212.github.io/e-commerce-store/)**
 
 ---
 
